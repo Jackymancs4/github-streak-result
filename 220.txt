@@ -4,3 +4,4 @@ I'm awesome x3 - Sat Nov 07 12:30:00 2015 +0100
 I'm awesome x4 - Sat Nov 07 15:00:00 2015 +0100
 I'm awesome x5 - Sat Nov 07 17:30:00 2015 +0100
 I'm awesome x6 - Sat Nov 07 20:00:00 2015 +0100
+I'm awesome x7 - Sat Nov 07 22:30:00 2015 +0100

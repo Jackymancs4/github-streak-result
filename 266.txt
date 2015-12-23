@@ -4,3 +4,4 @@ I'm awesome x3 - Wed Dec 23 12:30:00 2015 +0100
 I'm awesome x4 - Wed Dec 23 15:00:00 2015 +0100
 I'm awesome x5 - Wed Dec 23 17:30:00 2015 +0100
 I'm awesome x6 - Wed Dec 23 20:00:00 2015 +0100
+I'm awesome x7 - Wed Dec 23 22:30:00 2015 +0100

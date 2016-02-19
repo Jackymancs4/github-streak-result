@@ -4,3 +4,4 @@ I'm awesome x3 - Fri Feb 19 12:30:00 2016 +0100
 I'm awesome x4 - Fri Feb 19 15:00:00 2016 +0100
 I'm awesome x5 - Fri Feb 19 17:30:00 2016 +0100
 I'm awesome x6 - Fri Feb 19 20:00:00 2016 +0100
+I'm awesome x7 - Fri Feb 19 22:30:00 2016 +0100
